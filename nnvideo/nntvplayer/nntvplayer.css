@@ -1,0 +1,8 @@
+.vjs-logo {line-height: 100%;margin-right:5px;margin-left:5px;position:absolute; right:5px;width:90px; height:30px;background:url(img/logo.png);background-size:cover;}
+.vjs-logo img {width:90px; height:30px;}
+.video-js .vjs-fullscreen-control {position:absolute; right: 100px;}
+.video-js .vjs-remaining-time {position:absolute; right: 140px;}
+.video-js .vjs-progress-control{width: 100%;height: 12px;position: absolute;top:-8px;left:0;}
+.video-js .vjs-progress-control .vjs-progress-holder {margin: 0;}
+.video-js .vjs-bigplay-container {width:100%;height:100%;display:flex;align-items:center;justify-content:center;}
+.video-js .vjs-big-play-button {position:relative;border-radius: 0.75em; top:0; left:0;}
